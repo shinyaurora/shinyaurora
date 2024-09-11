@@ -1,4 +1,7 @@
 # 💻 Fullstack Web Developer
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=happymorning505&color=blue)
 
 ## 🌟 Objective:
 As a passionate and dedicated fullstack web developer, my objective is to create innovative, user-friendly, and scalable web applications. I am skilled in both frontend and backend technologies, with a strong focus on delivering high-quality code and exceptional user experiences.
