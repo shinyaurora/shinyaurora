@@ -105,10 +105,5 @@ As a passionate and dedicated fullstack web developer, my objective is to create
 
 ---
 
-## 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-
----
-
 ## 📧 Contact:
 You can reach me at [cupid.jack505@gmail.com](mailto:cupid.jack505@gmail.com)
