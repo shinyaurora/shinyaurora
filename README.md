@@ -100,6 +100,9 @@ As a passionate and dedicated fullstack web developer, my objective is to create
     <td align="center" style="border: 1px solid black; padding: 10px;">
       <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="70" width="70"/><br/>MongoDB
     </td>
+    <td align="center" style="border: 1px solid black; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=redis" alt="Redis" height="70" width="70"/><br/>Redis
+    </td>
   </tr>
 </table>
 
