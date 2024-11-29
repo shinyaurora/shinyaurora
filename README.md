@@ -110,3 +110,7 @@ As a passionate and dedicated fullstack web developer, my objective is to create
 
 ## 📧 Contact:
 You can reach me at [cupid.jack505@gmail.com](mailto:cupid.jack505@gmail.com)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
