@@ -113,4 +113,4 @@ You can reach me at [cupid.jack505@gmail.com](mailto:cupid.jack505@gmail.com)
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinyaurora&layout=compact)
