@@ -1,128 +1,29 @@
-<div style="display: flex; flex-wrap: wrap;">
-  <!-- Frontend Development -->
-  <div style="margin: 5px; display: flex; align-items: center; padding: 5px 16px; background-color: crimson;">
-    <img src="https://skillicons.dev/icons?i=html" width="20" height="20" />
-    <span style="color: white; margin-left: 8px;">HTML5</span>
-  </div>
-  <div style="margin: 5px; display: flex; align-items: center; padding: 5px 16px; background-color: #1572B6;">
-    <img src="https://skillicons.dev/icons?i=css" width="20" height="20" />
-    <span style="color: white; margin-left: 8px;">CSS3</span>
-  </div>
-  <div style="margin: 5px; display: flex; align-items: center; padding: 5px 16px; background-color: #F7DF1E;">
-    <img src="https://skillicons.dev/icons?i=javascript" width="20" height="20" />
-    <span style="color: white; margin-left: 8px;">JavaScript</span>
-  </div>
-  <div style="margin: 5px; display: flex; align-items: center; padding: 5px 16px; background-color: #3178C6;">
-    <img src="https://skillicons.dev/icons?i=typescript" width="20" height="20" />
-    <span style="color: white; margin-left: 8px;">TypeScript</span>
-  </div>
-  <div style="margin: 5px; display: flex; align-items: center; padding: 5px 16px; background-color: #61DAFB;">
-    <img src="https://skillicons.dev/icons?i=react" width="20" height="20" />
-    <span style="color: white; margin-left: 8px;">React.js</span>
-  </div>
-  <div style="margin: 5px; display: flex; align-items: center; padding: 5px 16px; background-color: #DD1B16;">
-    <img src="https://skillicons.dev/icons?i=angular" width="20" height="20" />
-    <span style="color: white; margin-left: 8px;">Angular</span>
-  </div>
-  <div style="margin: 5px; display: flex; align-items: center; padding: 5px 16px; background-color: #000000;">
-    <img src="https://skillicons.dev/icons?i=nextjs" width="20" height="20" />
-    <span style="color: white; margin-left: 8px;">Next.js</span>
-  </div>
-  <div style="margin: 5px; display: flex; align-items: center; padding: 5px 16px; background-color: #000000;">
-    <img src="https://skillicons.dev/icons?i=threejs" width="20" height="20" />
-    <span style="color: white; margin-left: 8px;">Three.js</span>
-  </div>
-  <div style="margin: 5px; display: flex; align-items: center; padding: 5px 16px; background-color: #0769AD;">
-    <img src="https://skillicons.dev/icons?i=jquery" width="20" height="20" />
-    <span style="color: white; margin-left: 8px;">jQuery</span>
-  </div>
-  <div style="margin: 5px; display: flex; align-items: center; padding: 5px 16px; background-color: #764ABC;">
-    <img src="https://skillicons.dev/icons?i=redux" width="20" height="20" />
-    <span style="color: white; margin-left: 8px;">Redux</span>
-  </div>
-  <div style="margin: 5px; display: flex; align-items: center; padding: 5px 16px; background-color: #C76494;">
-    <img src="https://skillicons.dev/icons?i=sass" width="20" height="20" />
-    <span style="color: white; margin-left: 8px;">SASS/SCSS</span>
-  </div>
-  <div style="margin: 5px; display: flex; align-items: center; padding: 5px 16px; background-color: #38B2AC;">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="20" height="20" />
-    <span style="color: white; margin-left: 8px;">Tailwind CSS</span>
-  </div>
-  <div style="margin: 5px; display: flex; align-items: center; padding: 5px 16px; background-color: #563D7C;">
-    <img src="https://skillicons.dev/icons?i=bootstrap" width="20" height="20" />
-    <span style="color: white; margin-left: 8px;">Bootstrap</span>
-  </div>
-
-  <!-- Backend Development -->
-  <div style="margin: 5px; display: flex; align-items: center; padding: 5px 16px; background-color: #000000;">
-    <img src="https://skillicons.dev/icons?i=express" width="20" height="20" />
-    <span style="color: white; margin-left: 8px;">Express.js</span>
-  </div>
-  <div style="margin: 5px; display: flex; align-items: center; padding: 5px 16px; background-color: #0078D7;">
-    <img src="https://skillicons.dev/icons?i=dotnet" width="20" height="20" />
-    <span style="color: white; margin-left: 8px;">.NET</span>
-  </div>
-
-  <!-- Databases -->
-  <div style="margin: 5px; display: flex; align-items: center; padding: 5px 16px; background-color: #4479A1;">
-    <img src="https://skillicons.dev/icons?i=mysql" width="20" height="20" />
-    <span style="color: white; margin-left: 8px;">MySQL</span>
-  </div>
-  <div style="margin: 5px; display: flex; align-items: center; padding: 5px 16px; background-color: #47A248;">
-    <img src="https://skillicons.dev/icons?i=mongodb" width="20" height="20" />
-    <span style="color: white; margin-left: 8px;">MongoDB</span>
-  </div>
-
-  <!-- DevOps -->
-  <div style="margin: 5px; display: flex; align-items: center; padding: 5px 16px; background-color: #1572B6;">
-    <img src="https://skillicons.dev/icons?i=docker" width="20" height="20" />
-    <span style="color: white; margin-left: 8px;">Docker</span>
-  </div>
-  <div style="margin: 5px; display: flex; align-items: center; padding: 5px 16px; background-color: #326CE5;">
-    <img src="https://skillicons.dev/icons?i=kubernetes" width="20" height="20" />
-    <span style="color: white; margin-left: 8px;">Kubernetes</span>
-  </div>
-  <div style="margin: 5px; display: flex; align-items: center; padding: 5px 16px; background-color: #0078D4;">
-    <img src="https://skillicons.dev/icons?i=azure" width="20" height="20" />
-    <span style="color: white; margin-left: 8px;">Azure</span>
-  </div>
-
-  <!-- Testing -->
-  <div style="margin: 5px; display: flex; align-items: center; padding: 5px 16px; background-color: #C76494;">
-    <img src="https://skillicons.dev/icons?i=jest" width="20" height="20" />
-    <span style="color: white; margin-left: 8px;">Jest</span>
-  </div>
-  <div style="margin: 5px; display: flex; align-items: center; padding: 5px 16px; background-color: #00BFA5;">
-    <img src="https://skillicons.dev/icons?i=cypress" width="20" height="20" />
-    <span style="color: white; margin-left: 8px;">Cypress</span>
-  </div>
-
-  <!-- Tools -->
-  <div style="margin: 5px; display: flex; align-items: center; padding: 5px 16px; background-color: #F34F29;">
-    <img src="https://skillicons.dev/icons?i=git" width="20" height="20" />
-    <span style="color: white; margin-left: 8px;">Git</span>
-  </div>
-  <div style="margin: 5px; display: flex; align-items: center; padding: 5px 16px; background-color: #181717;">
-    <img src="https://skillicons.dev/icons?i=github" width="20" height="20" />
-    <span style="color: white; margin-left: 8px;">GitHub</span>
-  </div>
-  <div style="margin: 5px; display: flex; align-items: center; padding: 5px 16px; background-color: #8ED6FB;">
-    <img src="https://skillicons.dev/icons?i=webpack" width="20" height="20" />
-    <span style="color: white; margin-left: 8px;">Webpack</span>
-  </div>
-  <div style="margin: 5px; display: flex; align-items: center; padding: 5px 16px; background-color: #646CFF;">
-    <img src="https://skillicons.dev/icons?i=vite" width="20" height="20" />
-    <span style="color: white; margin-left: 8px;">Vite</span>
-  </div>
-<div style="margin: 5px; display: flex; align-items: center; padding: 5px 16px; background-color: #0052CC;">
-    <img src="https://skillicons.dev/icons?i=jira" width="20" height="20" />
-    <span style="color: white; margin-left: 8px;">Jira</span>
-</div>
-<div style="margin: 5px; display: flex; align-items: center; padding: 5px 16px; background-color: #0079BF;">
-    <img src="https://skillicons.dev/icons?i=trello" width="20" height="20" />
-    <span style="color: white; margin-left: 8px;">Trello</span>
-</div>
-<div style="margin: 5px; display: flex; align-items: center; padding: 5px 16px; background-color: #F24E1E;">
-    <img src="https://skillicons.dev/icons?i=figma" width="20" height="20" />
-    <span style="color: white; margin-left: 8px;">Figma</span>
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
